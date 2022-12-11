@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @AnkitPandey09
-- 👀 I’m interested in Coding sometimes...
+- 👋 I'M 1ST year Btech(cse) student.
+- Learning Programming Languages like Python,java,c++
+- I'M intrested in Web development
 - 🌱 I’m currently learning ..
 
 <!---
